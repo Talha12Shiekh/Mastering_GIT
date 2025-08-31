@@ -1,1 +1,2 @@
-console.log("Hello from git again");
+console.log("Hello I am inside of feature branch");
+console.log("Change doing from the remote into feature-branch");
